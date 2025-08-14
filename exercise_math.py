@@ -17,4 +17,3 @@ def math():
     print (resto)
     print (average)
 
-math()
