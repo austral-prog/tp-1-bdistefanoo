@@ -47,12 +47,12 @@ def math():
     resto = a % b
 
 
-    print ("suma:", suma)
-    print ("resta:", resta)
-    print ("multiplicacion:", multiplicacion)
-    print ("division:", division)
-    print ("average:", average)
-    print ("cociente_entero:", cociente_entero)
-    print ("resto:", resto)
+    print (suma)
+    print (resta)
+    print (multiplicacion)
+    print (division)
+    print (average)
+    print (cociente_entero)
+    print (resto)
 
 math()
