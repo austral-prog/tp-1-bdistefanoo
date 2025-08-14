@@ -46,13 +46,12 @@ def math():
     cociente_entero = a // b
     resto = a % b
 
-
     print (suma)
     print (resta)
     print (multiplicacion)
     print (division)
-    print (average)
     print (cociente_entero)
     print (resto)
+    print (average)
 
 math()
