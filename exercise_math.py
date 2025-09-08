@@ -6,14 +6,15 @@ def math():
     multiplicacion = a * b
     division = a / b
     cociente_entero = a // b
-    resto = a % b
+    resto = a % b    
     average = (a + b) / 2
 
-    print (suma)
-    print (resta)
-    print (multiplicacion)
-    print (division)
-    print (cociente_entero)
-    print (resto)
-    print (average)
+    print(suma)              
+    print(resta)             
+    print(multiplicacion)    
+    print(average)           
+    print(cociente_entero)   
+    print(resto)             
+    print(division)    
 
+math ()
